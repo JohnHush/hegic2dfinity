@@ -1,0 +1,6 @@
+[submodule "contracts-v1"]
+	path = contracts-v1
+	url = https://github.com/hegic/contracts-v1.git
+[submodule "frontend-v1.1"]
+	path = frontend-v1.1
+	url = https://github.com/hegic/frontend-v1.1.git
