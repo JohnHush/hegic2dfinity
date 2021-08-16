@@ -30,4 +30,8 @@ https://ipfs.io/ipfs/QmWy8x6vEunH4gD2gWT4Bt4bBwWX2KAEUov46tCLvMRcME
   - Hegic的最注重的并不是提供更便宜的contract（虽然它基本上做到了），主要是去中心化平台带来的trustless, non-custodial type
   - 在Hegic中质押DAI时，不仅会收到作为writer的premium，同时还有DAI saving rate
 
+## dfinity开发难点
+- icp钱包
+- 到期时难以触发事件(可能不需要？直接是用户直接触法)
+- 链上的uniswap兑换
   
